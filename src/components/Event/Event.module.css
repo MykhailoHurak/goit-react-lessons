@@ -1,6 +1,6 @@
 .event {
     position: relative;
-    border: 2px dashed black;
+    border: 2px dashed orange;
     padding: 8px;
     border-radius: 4px;
 }
@@ -29,7 +29,7 @@
 .icon {
     display: block;
     margin-right: 8px;
-    color: var(--color-secondary-text);
+    color: orange;
 }
 
 .chip {
